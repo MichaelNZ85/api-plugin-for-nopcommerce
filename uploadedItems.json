@@ -1,7 +1,7 @@
 [
   {
     "Type": "Plugin",
-    "SupportedVersion": "4.00",
+    "SupportedVersion": "4.30",
     "DirectoryPath": "Nop.Plugin.Api",
     "SystemName": "Nop.Plugin.Api"
   }
